@@ -48,3 +48,6 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
   This evaluates the project's potential to address a meaningful problem, contribute positively to society, or offer a genuinely innovative and unique solution. Judges will consider the originality of the idea, its potential real‑world applicability, and its ability to solve a challenge in a new or impactful way.
 
 
+For this Hackathon we worked on this project Gmail-Autosorter, thats one of the public repo. 
+
+
