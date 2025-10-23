@@ -1,4 +1,5 @@
 # Agentic AI App Hackathon Template
+(This is just a Hackathon competion,For this Hackathon we worked on this project Gmail-Autosorter, thats one of the public repo.)
 
 Welcome! This repository is your starting point for the **Agentic AI App Hackathon**. It includes:
 
