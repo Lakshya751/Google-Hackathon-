@@ -1,6 +1,8 @@
 # Agentic AI App Hackathon Template
 (This is just a Hackathon competion,For this Hackathon we worked on this project Gmail-Autosorter, thats one of the public repo.)
 
+The whole project is in the private folder due to security reasons.
+
 Welcome! This repository is your starting point for the **Agentic AI App Hackathon**. It includes:
 
 - A consistent folder structure  
