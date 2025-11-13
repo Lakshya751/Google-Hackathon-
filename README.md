@@ -30,11 +30,6 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
    docker build -t agentic-agent .
    docker run --rm -it agentic-agent bash
 
-## 📂 Folder Layout
-
-![Folder Layout Diagram](images/folder-githb.png)
-
-
 
 ## 🏅 Judging Criteria
 
