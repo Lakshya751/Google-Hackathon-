@@ -102,10 +102,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - Thanks to the hackathon organizers for this opportunity
 - Built using the [agentic-hackathon-template](https://github.com/odsc2015/agentic-hackathon-template)
 
-## 📬 Contact
-
-For questions about this project, please open an issue or contact the team through GitHub.
-
 ---
 
 **Note:** The full source code and implementation details are maintained in a private repository for security and privacy reasons. This public repository contains the documentation and submission materials for the hackathon.
