@@ -104,4 +104,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-**Note:** The full source code and implementation details are maintained in a private repository for security and privacy reasons. This public repository contains the documentation and submission materials for the hackathon.
+**Note:** The full source code and implementation details are maintained in a private repository for security and privacy reasons (collaborated). This public repository contains the documentation and submission materials for the hackathon.
