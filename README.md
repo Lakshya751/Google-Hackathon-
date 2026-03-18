@@ -91,7 +91,7 @@ This project was created for the **Agentic AI App Hackathon**. Our submission in
 
 ## 👥 Team
 
-Team Name: **[Your Team Name]**
+Team Name: **Lakshya and Wyatt**
 
 ## 📄 License
 
